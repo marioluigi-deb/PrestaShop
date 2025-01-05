@@ -51,7 +51,7 @@
     "path": "^0.12.7",
     "perfect-scrollbar": "^1.5.5",
     "prestakit": "^2.0.1",
-    "terser-webpack-plugin": "^5.3.10",
+    "terser-webpack-plugin": "^5.3.11",
     "vazirmatn": "33.0.3",
     "webpack-font-preload-plugin": "^1.5.0",
     "webpack-license-plugin": "^4.5.0",
